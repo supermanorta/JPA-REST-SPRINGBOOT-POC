@@ -1,5 +1,5 @@
 package com.JPAExample.JPAExample;
-
+#added some comments to see if I can push to main from the mac
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 //Something to note, if scanBasePackages is used, it must declare all pacakges. Spring will no long behave as expected with out the ScanBasePackage.
